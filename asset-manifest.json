@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/movie-maniac/static/css/main.fb2ce19e.css",
+    "main.js": "/movie-maniac/static/js/main.77d8feab.js",
+    "static/js/496.900c691c.chunk.js": "/movie-maniac/static/js/496.900c691c.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/movie-maniac/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/movie-maniac/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/movie-maniac/index.html",
+    "main.fb2ce19e.css.map": "/movie-maniac/static/css/main.fb2ce19e.css.map",
+    "main.77d8feab.js.map": "/movie-maniac/static/js/main.77d8feab.js.map",
+    "496.900c691c.chunk.js.map": "/movie-maniac/static/js/496.900c691c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb2ce19e.css",
+    "static/js/main.77d8feab.js"
+  ]
+}
