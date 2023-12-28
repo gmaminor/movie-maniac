@@ -15,7 +15,7 @@ const MovieList = ({ type,title }) => {
 
     useEffect(() => {
         fetchMovies();
-    }, []);
+    }, [type]);
 
     const fetchMovies = async () => {
         const result = await fetch(`https://api.themoviedb.org/3/movie/${type}?api_key=c96d9aaee25fedcf2610ab29771c09ee`);
